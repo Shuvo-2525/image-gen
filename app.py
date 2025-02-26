@@ -44,7 +44,7 @@ ART_STYLES = {
 }
 
 # Set up the app title and icon
-st.set_page_config(page_title="AKHAND IMAGE GENERATION V2", page_icon="🎨")
+st.set_page_config(page_title="Shuvo IMAGE GENERATION V2", page_icon="🎨")
 
 # Initialize Hugging Face Inference client
 def get_client():
