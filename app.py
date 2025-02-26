@@ -61,7 +61,7 @@ if 'history' not in st.session_state:
     st.session_state.history = []
 
 # App UI
-st.title("🎨 AKHAND IMAGE GENERATION V2 ")
+st.title("🎨 SHUVO IMAGE GENERATION SFW ")
 st.write("Professional Art Generation with 100+ Style Presets")
 
 # Input parameters
@@ -215,7 +215,7 @@ st.markdown("""
 **Art Studio Tools**
 - Developed by [SHUVO](https://sites.google.com/view/mr-shuvo/Home)
 - Powered by [FLUX.1](https://huggingface.co/black-forest-labs/FLUX.1-dev)
-- 150+ Artistic Style Presets
+- 100+ Artistic Style Presets
 - Professional-Grade Generation Parameters
 - Temporary Browser-Based Session Storage
 """)
